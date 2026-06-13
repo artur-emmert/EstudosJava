@@ -1,5 +1,5 @@
     import java.util.Scanner;
-    
+
     System.out.print("Digite o número de linhas (n): ");
     int n = leitor.nextInt();
 
@@ -18,5 +18,3 @@
         System.out.println();
     }
 
-    leitor.close();
-}
